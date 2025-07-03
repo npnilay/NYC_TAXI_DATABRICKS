@@ -1,6 +1,6 @@
 # NYC_TAXI_DATABRICKS
 
-# End-to-end Databricks project for NYC_TAXI using a Medallion architecture. Source = https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page Destination = Gold layer in Azure data lake Using Azure Data Factory to create pipelines. Using databricks to transform the data
+## End-to-end Databricks project for NYC_TAXI using a Medallion architecture. Source = https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page Destination = Gold layer in Azure data lake Using Azure Data Factory to create pipelines. Using databricks to transform the data
 
 🌟 NYC Taxi Data Engineering Project 🌟
 Thrilled to present my latest project: a real-time data pipeline on Azure designed to ingest, transform, and analyze live NYC Taxi trip data from a Web API. This project exemplifies the integration of cloud technologies and Big Data frameworks to provide scalable, efficient, and insightful data solutions.
